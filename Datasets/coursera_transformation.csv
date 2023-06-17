@@ -1,0 +1,605 @@
+name,institution,count_reviews,rating_mean
+Machine Learning,Stanford University,35895,4.75
+Indigenous Canada,University of Alberta,3702,4.81
+The Science of Well-Being,Yale University,20085,4.93
+Technical Support Fundamentals,Google,35319,4.78
+Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,87,4.93
+Financial Markets,Yale University,8918,4.82
+Introduction to Psychology,Yale University,8426,4.84
+Programming for Everybody (Getting Started with Python),University of Michigan,45218,4.58
+The Bits and Bytes of Computer Networking,Google,14176,4.65
+AI For Everyone,DeepLearning.AI,21630,4.84
+Crash Course on Python,Google,9399,4.73
+Psychological First Aid,Johns Hopkins University,7666,4.87
+Neural Networks and Deep Learning,DeepLearning.AI,35750,4.78
+What is Data Science?,IBM,21087,4.63
+Successful Negotiation: Essential Strategies and Skills,University of Michigan,7841,4.81
+Fundamentals of Project Planning and Management,University of Virginia,3264,4.77
+Project Launch,"University of California, Irvine",106,4.39
+"Brand Management: Aligning Business, Brand and Behaviour",London Business School,2961,4.9
+Writing in the Sciences,Stanford University,3282,4.93
+Stanford Introduction to Food and Health,Stanford University,12839,4.71
+"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University,9330,4.76
+Excel Skills for Business: Essentials,Macquarie University,21251,4.9
+Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,Yale University,2870,4.92
+"Everyday Excel, Part 1",University of Colorado Boulder,889,4.83
+Learning How to Learn: Powerful mental tools to help you master tough subjects,University of California San Diego,32265,4.8
+Google Cloud Platform Fundamentals: Core Infrastructure,Google Cloud,17425,4.72
+Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,3543,4.76
+Python Data Structures,University of Michigan,33546,4.85
+Private Equity and Venture Capital,Università Bocconi,2714,4.76
+First Step Korean,Yonsei University,14889,4.87
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",DeepLearning.AI,7350,4.66
+Operating Systems and You: Becoming a Power User,Google,6315,4.51
+Tools for Data Science,IBM,8241,4.04
+"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",DeepLearning.AI,17853,4.82
+Diversity and inclusion in the workplace,ESSEC Business School,284,4.71
+Design and Interpretation of Clinical Trials,Johns Hopkins University,1365,4.73
+Visual Elements of User Interface Design,California Institute of the Arts,1966,4.59
+Management of Fashion and Luxury Companies,Università Bocconi,2620,4.71
+Primeros Auxilios Psicológicos (PAP),Universitat Autònoma de Barcelona,7277,4.87
+Social Psychology,Wesleyan University,3293,4.89
+Initiating and Planning Projects,"University of California, Irvine",8595,4.72
+Computational Thinking for Problem Solving,University of Pennsylvania,681,4.69
+Agile with Atlassian Jira,Atlassian,1955,4.67
+Fundamentals of Graphic Design,California Institute of the Arts,7985,4.79
+Introduction to User Experience Design,Georgia Institute of Technology,1967,4.47
+Introduction to Marketing,University of Pennsylvania,5250,4.73
+Python for Data Science and AI,IBM,7989,4.31
+Marketing Analytics,University of Virginia,4062,4.65
+Natural Language Processing with Classification and Vector Spaces,DeepLearning.AI,852,4.35
+Fundamentals of Quantitative Modeling,University of Pennsylvania,3588,4.57
+How to Manage a Remote Team,GitLab,15,5.0
+Mathematics for Machine Learning: Linear Algebra,Imperial College London,4711,4.61
+Introduction to Data Science in Python,University of Michigan,14292,4.25
+Customer Analytics,University of Pennsylvania,5946,4.45
+Introduction to Psychology,University of Toronto,3206,4.89
+English for Career Development,University of Pennsylvania,7515,4.85
+Global Diplomacy – Diplomacy in the Modern World,University of London,2298,4.64
+SQL for Data Science,"University of California, Davis",5163,4.51
+Write Professional Emails in English,Georgia Institute of Technology,8786,4.82
+Medical Neuroscience,Duke University,1374,4.91
+System Administration and IT Infrastructure Services,Google,5325,4.66
+International Women's Health and Human Rights,Stanford University,624,4.89
+Child Nutrition and Cooking,Stanford University,5388,4.74
+Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago,1355,4.92
+Introduction to Social Media Marketing,Facebook,132,4.89
+Forensic Accounting and Fraud Examination,West Virginia University,2493,4.73
+Clinical Terminology for International and U.S. Students,University of Pittsburgh,1033,4.8
+Science of Exercise,University of Colorado Boulder,2694,4.85
+Digital Product Management: Modern Fundamentals,University of Virginia,2101,4.71
+Data Science Math Skills,Duke University,4956,4.48
+Structuring Machine Learning Projects,DeepLearning.AI,14295,4.71
+An Introduction to American Law,University of Pennsylvania,1943,4.87
+The Strategy of Content Marketing,"University of California, Davis",2214,4.47
+Introduction to Cybersecurity Tools & Cyber Attacks,IBM,3378,4.27
+The Data Scientist’s Toolbox,Johns Hopkins University,17598,4.49
+Animal Behaviour and Welfare,The University of Edinburgh,2160,4.81
+Convolutional Neural Networks in TensorFlow,DeepLearning.AI,2311,4.47
+Positive Psychology: Martin E. P. Seligman’s Visionary Science,University of Pennsylvania,3916,4.9
+Introduction to the Biology of Cancer,Johns Hopkins University,2800,4.81
+Convolutional Neural Networks,DeepLearning.AI,3735,3.88
+Using Python to Access Web Data,University of Michigan,19011,4.72
+Introductory Human Physiology,Duke University,1991,4.78
+Introduction to Systematic Review and Meta-Analysis,Johns Hopkins University,1543,4.85
+Communication Strategies for a Virtual Age,University of Toronto,2430,4.88
+Moral Foundations of Politics,Yale University,1854,4.85
+Étudier en France: French Intermediate course B1-B2,École Polytechnique,1638,4.84
+Managing the Company of the Future,London Business School,2298,4.84
+Finance for Non-Finance Professionals,Rice University,1116,4.81
+Site Reliability Engineering: Measuring and Managing Reliability,Google Cloud,409,4.25
+Autism Spectrum Disorder,"University of California, Davis",1300,4.68
+Data Science Methodology,IBM,4974,4.33
+Introduction to Financial Accounting,University of Pennsylvania,4105,4.78
+Marketing in a Digital World,University of Illinois at Urbana-Champaign,11283,4.73
+Wind Energy,Technical University of Denmark (DTU),3588,4.72
+Principles of Sustainable Finance,Erasmus University Rotterdam,132,4.91
+Financial Engineering and Risk Management Part I,Columbia University,1192,4.41
+Introduction to Philosophy,The University of Edinburgh,4231,4.71
+Business Metrics for Data-Driven Companies,Duke University,4234,4.6
+Python Basics,University of Michigan,6819,4.81
+Introduction to Sustainability,University of Illinois at Urbana-Champaign,1677,4.77
+Positive Psychiatry and Mental Health,The University of Sydney,1429,4.89
+Cryptography I,Stanford University,1926,4.77
+Learning to Teach Online,UNSW Sydney (The University of New South Wales),2584,4.8
+IT Security: Defense against the digital dark arts,Google,4290,4.76
+Entreprise et changement climatique,ESSEC Business School,6,5.0
+An Introduction to Consumer Neuroscience & Neuromarketing,Copenhagen Business School,1370,4.74
+Gamification,University of Pennsylvania,1962,4.78
+Contabilidad para no contadores,Universidad Nacional Autónoma de México,6521,4.77
+Using Python to Interact with the Operating System,Google,1381,4.61
+Object-Oriented Data Structures in C++,University of Illinois at Urbana-Champaign,1019,4.64
+Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,6123,4.57
+Databases and SQL for Data Science,IBM,3543,4.39
+Natural Language Processing in TensorFlow,DeepLearning.AI,1983,4.24
+"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",Erasmus University Rotterdam,399,4.63
+Natural Language Processing with Probabilistic Models,DeepLearning.AI,297,4.56
+Vital Signs: Understanding What the Body Is Telling Us,University of Pennsylvania,2221,4.83
+Understanding Research Methods,University of London,3693,4.58
+IBM Customer Engagement Specialist Professional Certificate,IBM,530,4.86
+Introduction to Calculus,The University of Sydney,1379,4.87
+Camino a la Excelencia en Gestión de Proyectos,Pontificia Universidad Católica de Chile,4548,4.55
+Introduction to HTML5,University of Michigan,3711,4.0
+Wine Tasting: Sensory Techniques for Wine Analysis,"University of California, Davis",198,4.28
+Excel Skills for Business: Intermediate I,Macquarie University,6402,4.91
+"Programming Foundations with JavaScript, HTML and CSS",Duke University,6255,4.55
+Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,2097,4.92
+Food & Beverage Management,Università Bocconi,1887,4.8
+Data Analysis with Python,IBM,4928,4.46
+Project Planning,"University of California, Irvine",60,4.35
+Agile Meets Design Thinking,University of Virginia,1857,4.79
+AWS Fundamentals: Going Cloud-Native,Amazon Web Services,5346,4.69
+Construction Project Management,Columbia University,2489,4.8
+Introduction to Mathematical Thinking,Stanford University,1324,4.81
+Everyday Parenting: The ABCs of Child Rearing,Yale University,1344,4.93
+Introduction to Healthcare,Stanford University,6,4.0
+Machine Learning with Python,IBM,4536,4.52
+Terrorism and Counterterrorism: Comparing Theory and Practice,Universiteit Leiden,1588,4.74
+Data Management for Clinical Research,Vanderbilt University,809,4.77
+Sustainable Fashion,Copenhagen Business School,378,4.84
+Foundations of Data Science: K-Means Clustering in Python,University of London,228,4.68
+Instructional Design Foundations and Applications,University of Illinois at Urbana-Champaign,189,3.67
+Cursos en línea: modelo para armar,Universidad Nacional Autónoma de México,164,4.95
+Modern Art & Ideas,The Museum of Modern Art,2973,4.77
+"Speak English Professionally: In Person, Online & On the Phone",Georgia Institute of Technology,6384,4.77
+Essential Google Cloud Infrastructure: Foundation,Google Cloud,4352,4.73
+Introduction to Artificial Intelligence (AI),IBM,3688,4.77
+Dog Emotion and Cognition,Duke University,2628,4.63
+International Leadership and Organizational Behavior,Università Bocconi,1236,4.84
+Driving business towards the Sustainable Development Goals,Erasmus University Rotterdam,213,4.87
+"The Sustainable Development Goals – A global, transdisciplinary vision for the future",University of Copenhagen,1797,4.79
+Digital Transformation,BCG,3078,4.8
+Sequence Models,DeepLearning.AI,8358,4.64
+Devenir entrepreneur du changement,HEC Paris,529,4.76
+Seeing Through Photographs,The Museum of Modern Art,2255,4.78
+Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania,1932,4.8
+Introduction to Search Engine Optimization,"University of California, Davis",4747,4.6
+Learn to Speak Korean 1,Yonsei University,2931,4.89
+Drug Development,University of California San Diego,871,4.55
+R Programming,Johns Hopkins University,11832,4.24
+Economics of Money and Banking,Columbia University,813,4.96
+Chinese for Beginners,Peking University,8753,4.79
+Grammar and Punctuation,"University of California, Irvine",12996,4.77
+Japanese for beginners 1,Saint Petersburg State University,78,3.36
+Introduction to English Common Law,University of London,669,4.82
+Introduction to Dental Medicine,University of Pennsylvania,541,4.91
+Fundamentals of Reinforcement Learning,Alberta Machine Intelligence Institute,1103,4.74
+The Power of Macroeconomics: Economic Principles in the Real World,"University of California, Irvine",1448,4.64
+Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,Università Bocconi,228,4.57
+Behavioral Finance,Duke University,1677,4.09
+"Sequences, Time Series and Prediction",DeepLearning.AI,1394,4.51
+Supply Chain Logistics,Rutgers the State University of New Jersey,3903,4.72
+Project Execution,"University of California, Irvine",42,3.93
+Nutrición y obesidad: control de sobrepeso,Universidad Nacional Autónoma de México,3993,4.77
+Microeconomics Principles,University of Illinois at Urbana-Champaign,1025,4.82
+Creative Writing: The Craft of Plot,Wesleyan University,2988,4.65
+Astronomy: Exploring Time and Space,University of Arizona,2168,4.88
+Oil & Gas Industry Operations and Markets,Duke University,3260,4.82
+Design Thinking for Innovation,University of Virginia,5421,4.68
+EDIVET: Do you have what it takes to be a veterinarian?,The University of Edinburgh,888,4.69
+Learn to Program: The Fundamentals,University of Toronto,3555,4.75
+Financial Accounting Fundamentals,University of Virginia,1005,4.84
+Finding Purpose and Meaning In Life: Living for What Matters Most,University of Michigan,827,4.8
+Understanding Clinical Research: Behind the Statistics,University of Cape Town,1698,4.81
+Epidemiology: The Basic Science of Public Health,The University of North Carolina at Chapel Hill,2071,4.65
+Fashion as Design,The Museum of Modern Art,1219,4.84
+Teamwork Skills: Communicating Effectively in Groups,University of Colorado Boulder,1649,4.78
+Feminism and Social Justice,"University of California, Santa Cruz",2025,4.81
+International Organizations Management,University of Geneva,810,4.84
+Marketing Digital,Universidade de São Paulo,1119,4.8
+Fundamentals of GIS,"University of California, Davis",3532,4.86
+e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,University of Illinois at Urbana-Champaign,231,4.51
+"Excel/VBA for Creative Problem Solving, Part 1",University of Colorado Boulder,2036,4.86
+Rethinking International Tax Law,Universiteit Leiden,513,4.82
+Introduction to Probability and Data with R,Duke University,2916,4.63
+Understanding and Visualizing Data with Python,University of Michigan,842,4.64
+Fundamentals of Visualization with Tableau,"University of California, Davis",2760,4.36
+Getting Started with SAS Programming,SAS,909,4.87
+Machine Learning for All,University of London,1689,4.69
+Using Databases with Python,University of Michigan,7880,4.71
+Addiction Treatment: Clinical Skills for Healthcare Providers,Yale University,399,4.92
+Dino 101: Dinosaur Paleobiology,University of Alberta,1791,4.9
+Sports Marketing,Northwestern University,432,4.66
+Positive Psychology,The University of North Carolina at Chapel Hill,2721,4.66
+Introduction to Programming with MATLAB,Vanderbilt University,8682,4.83
+Preparing to Manage Human Resources,University of Minnesota,4347,4.86
+Solar Energy Basics,The State University of New York,1123,4.82
+Front-End Web UI Frameworks and Tools: Bootstrap 4,The Hong Kong University of Science and Technology,4791,4.82
+Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,473,4.02
+Introduction to Forensic Science,"Nanyang Technological University, Singapore",922,4.85
+Google Cloud Product Fundamentals,Google Cloud,270,4.7
+American Contract Law I,Yale University,270,4.83
+Engineering Health: Introduction to Yoga and Physiology,New York University,165,4.58
+AI for Medical Diagnosis,DeepLearning.AI,767,4.6
+Natural Language Processing with Sequence Models,DeepLearning.AI,186,3.97
+Introduction to Electronics,Georgia Institute of Technology,1031,4.72
+International Humanitarian Law in Theory and Practice,Universiteit Leiden,491,4.83
+Making Architecture,IE School of Architecture & Design,520,4.82
+Model Thinking,University of Michigan,1048,4.77
+Supporting children with difficulties in reading and writing,University of London,986,4.76
+Innovation Management,Erasmus University Rotterdam,828,4.72
+The Manager's Toolkit: A Practical Guide to Managing People at Work,"Birkbeck, University of London",1342,4.68
+"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia,1420,4.85
+Supply Chain Principles,Georgia Institute of Technology,939,4.56
+Essential Google Cloud Infrastructure: Core Services,Google Cloud,2169,4.67
+Weight Management: Beyond Balancing Calories,Emory University,474,4.78
+Miracles of Human Language: An Introduction to Linguistics,Universiteit Leiden,1299,4.67
+Java Programming: Solving Problems with Software,Duke University,3276,4.5
+Race and Cultural Diversity in American Life and History,University of Illinois at Urbana-Champaign,246,4.41
+Inspiring and Motivating Individuals,University of Michigan,2252,4.85
+"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",Universitat Autònoma de Barcelona,2662,4.77
+Healing with the Arts,University of Florida,618,4.74
+People Analytics,University of Pennsylvania,2541,4.52
+What is Social?,Northwestern University,2541,4.6
+UX Design Fundamentals,California Institute of the Arts,719,4.79
+Creative Thinking: Techniques and Tools for Success,Imperial College London,1796,4.73
+Introduction to Classical Music,Yale University,1892,4.92
+Children's Human Rights - An Interdisciplinary Introduction,University of Geneva,900,4.62
+Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,HEC Paris,301,4.6
+Introduction to Data Analysis Using Excel,Rice University,4500,4.71
+Mind Control: Managing Your Mental Health During COVID-19,University of Toronto,4059,4.84
+Introduction to International Criminal Law,Case Western Reserve University,1566,4.81
+"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania,806,4.58
+Greek and Roman Mythology,University of Pennsylvania,1121,4.79
+Politics and Economics of International Energy,Sciences Po,900,4.72
+Continuous Delivery & DevOps,University of Virginia,711,4.55
+Teach English Now! Foundational Principles,Arizona State University,7822,4.92
+Business Model Innovation,HEC Paris,219,4.7
+Introduction to User Experience Principles and Processes,University of Michigan,549,4.79
+Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,University of Michigan,156,4.75
+Process Mining: Data science in Action,Eindhoven University of Technology,514,4.79
+Fundamentals of Immunology: Innate Immunity and B-Cell Function,Rice University,511,4.82
+Introduction to Corporate Finance,University of Pennsylvania,2313,4.44
+Global Diplomacy: the United Nations in the World,University of London,788,4.72
+Algorithmic Toolbox,University of California San Diego,5412,4.53
+Troubles du spectre de l'autisme : diagnostic,University of Geneva,234,4.85
+Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,671,4.85
+A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,270,4.66
+English for Business and Entrepreneurship,University of Pennsylvania,2658,4.88
+Natural Language Processing with Attention Models,DeepLearning.AI,49,3.33
+What is Compliance?,University of Pennsylvania,357,4.8
+Getting Started with Google Sheets,Google Cloud,517,4.67
+Data Visualization with Python,IBM,3277,4.06
+Foundations of Mindfulness,Rice University,117,4.82
+Negociación exitosa: Estrategias y habilidades esenciales (en español),University of Michigan,1953,4.8
+Data-driven Decision Making,PwC,2772,4.52
+Fundamentals of Engineering Exam Review,Georgia Institute of Technology,386,4.43
+Gender and Sexuality: Diversity and Inclusion in the Workplace,University of Pittsburgh,279,4.71
+Managerial Accounting Fundamentals,University of Virginia,231,4.87
+Search Engine Optimization Fundamentals,"University of California, Davis",1395,4.72
+Essentials of Global Health,Yale University,785,4.86
+International Security Management,Erasmus University Rotterdam,177,4.61
+Getting Started with AWS Machine Learning,Amazon Web Services,3354,4.41
+Arts and Heritage Management,Università Bocconi,552,4.79
+Understanding Einstein: The Special Theory of Relativity,Stanford University,1938,4.89
+Réussir le Changement,ESSEC Business School,1224,4.41
+Equine Welfare and Management,"University of California, Davis",158,4.95
+International migrations: a global issue,Sciences Po,132,4.3
+Introduction to Web Development,"University of California, Davis",1822,4.66
+Writing and Editing: Word Choice and Word Order,University of Michigan,309,4.78
+Introduction to the Digital Advertising Landscape,University of Colorado Boulder,129,4.47
+Access Controls,(ISC)²,131,4.57
+Engineering Project Management: Initiating and Planning,Rice University,1343,4.8
+Kotlin for Java Developers,JetBrains,729,4.55
+Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,1970,4.72
+Introduction to Git and GitHub,Google,1933,4.82
+Industrial Biotechnology,University of Manchester   ,1029,4.57
+The Addicted Brain,Emory University,1230,4.55
+Introducción a la programación en Python I: Aprendiendo a programar con Python,Pontificia Universidad Católica de Chile,2436,4.23
+Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,633,4.64
+Drug Discovery,University of California San Diego,1124,4.63
+Nutrition and Lifestyle in Pregnancy,Ludwig-Maximilians-Universität München (LMU),1227,4.81
+Financial Acumen for Non-Financial Managers,University of Pennsylvania,207,4.07
+Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology,1177,4.36
+Bugs 101: Insect-Human Interactions,University of Alberta,747,4.96
+Autodesk Certified Professional: Revit for Architectural Design Exam Prep,Autodesk,287,4.77
+"Leading for Equity, Diversity and Inclusion in Higher Education",University of Michigan,96,4.78
+Enterprise Architecture,Peter the Great St. Petersburg Polytechnic University,99,4.55
+Introduction to Spreadsheets and Models,University of Pennsylvania,1674,3.63
+The Arts and Science of Relationships: Understanding Human Needs,University of Toronto,737,4.37
+Essentials in Clinical Simulations Across the Health Professions,The George Washington University,450,4.83
+Budgeting and Scheduling Projects,"University of California, Irvine",2597,4.75
+Machine Learning for Business Professionals,Google Cloud,2508,4.58
+Introduction to Accounting Data Analytics and Visualization,University of Illinois at Urbana-Champaign,129,4.88
+Spanish Vocabulary: Meeting People,"University of California, Davis",1300,4.54
+Gestión Empresarial Exitosa para Pymes,Pontificia Universidad Católica de Chile,4124,4.85
+Public Policy Challenges of the 21st Century,University of Virginia,816,4.57
+International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,306,4.85
+Introduction to Ancient Egypt and Its Civilization,University of Pennsylvania,1494,4.64
+Financing and Investing in Infrastructure,Università Bocconi,1024,4.84
+Global Environmental Management,Technical University of Denmark (DTU),753,4.68
+Operations Analytics,University of Pennsylvania,2368,4.68
+Entrepreneurship Strategy: From Ideation to Exit,HEC Paris,6,1.0
+FinTech Law and Policy,Duke University,297,4.81
+The Social Context of Mental Health and Illness,University of Toronto,219,4.56
+What Is Contemporary Art?,The Museum of Modern Art,800,4.77
+The Art of Music Production,Berklee College of Music,1289,4.84
+Biohacking Your Brain's Health,Emory University,711,4.7
+Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",1824,4.45
+Reporting extra-financier et stratégie RSE,ESSEC Business School,135,4.58
+Leading Healthcare Quality and Safety,The George Washington University,516,4.84
+Understanding International Relations Theory,National Research University Higher School of Economics,312,4.66
+Introduction to Data Analytics,IBM,54,4.78
+Fundamentos de Excel para Negocios,Universidad Austral,3302,4.82
+Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,1875,4.6
+Cultural Competence - Aboriginal Sydney,The University of Sydney,64,4.48
+Fundamentos de Finanzas Empresariales,Universidad de los Andes,4006,4.91
+Greening the Economy: Sustainable Cities,Lund University,1701,4.65
+Introduction to Engineering Mechanics,Georgia Institute of Technology,2082,4.76
+Design-Led Strategy: Design thinking for business strategy and entrepreneurship,The University of Sydney,317,4.66
+Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego,855,4.24
+Understanding Medical Research: Your Facebook Friend is Wrong,Yale University,753,4.92
+Health Behavior Change: From Evidence to Action,Yale University,81,4.93
+Ordered Data Structures,University of Illinois at Urbana-Champaign,283,4.72
+Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,McMaster University,7523,4.85
+Programming Fundamentals,Duke University,3571,4.65
+Understanding Financial Markets,University of Geneva,2436,4.73
+In the Studio: Postwar Abstract Painting,The Museum of Modern Art,1148,4.94
+Drug Commercialization,University of California San Diego,441,4.6
+Introduction to Software Product Management,University of Alberta,3071,4.59
+"Social Norms, Social Change I",Unicef,1067,4.6
+Excel Skills for Business: Intermediate II,Macquarie University,2919,4.72
+Aboriginal Worldviews and Education,University of Toronto,197,4.6
+"Information Systems Auditing, Controls and Assurance",The Hong Kong University of Science and Technology,629,4.69
+Six Sigma Principles,University System of Georgia,2848,4.56
+Business Writing,University of Colorado Boulder,2343,4.81
+Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,Autodesk,891,4.71
+Introduction to Typography,California Institute of the Arts,2350,4.78
+Customer Segmentation and Prospecting,Northwestern University,346,4.77
+Claves para Gestionar Personas,IESE Business School,1656,4.88
+English for Journalism,University of Pennsylvania,1646,4.83
+How Things Work: An Introduction to Physics,University of Virginia,1690,4.85
+Business English: Networking,University of Washington,1437,4.88
+Summary Statistics in Public Health,Johns Hopkins University,639,4.79
+Global Energy and Climate Policy,University of London,215,4.67
+El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,Universidad Austral,375,4.97
+Probability and Statistics: To p or not to p?,University of London,840,4.68
+Gut Check: Exploring Your Microbiome,University of Colorado Boulder,653,4.79
+Econometrics: Methods and Applications,Erasmus University Rotterdam,524,4.53
+Разработка веб-сервисов на Go - основы языка,Moscow Institute of Physics and Technology,278,4.72
+Mastering Data Analysis in Excel,Duke University,2277,3.84
+Basic Statistics,University of Amsterdam,2401,4.62
+"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,3837,4.5
+Design Thinking for the Greater Good: Innovation in the Social Sector,University of Virginia,252,4.58
+Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,537,4.75
+Data Analytics for Lean Six Sigma,University of Amsterdam,1929,4.88
+Refugees in the 21st Century,University of London,136,4.76
+Building Containerized Applications on AWS,Amazon Web Services,112,4.41
+Business Transformation with Google Cloud,Google Cloud,485,4.83
+Version Control with Git,Atlassian,1347,4.74
+"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",UNSW Sydney (The University of New South Wales),499,4.74
+Excel aplicado a los negocios (Nivel Avanzado),Universidad Austral,1782,4.72
+Introduction to Public Speaking,University of Washington,1140,4.83
+Building Conversational Experiences with Dialogflow,Google Cloud,615,4.24
+Guitar for Beginners,Berklee College of Music,1534,4.76
+Managing Project Risks and Changes,"University of California, Irvine",2361,4.78
+L'excellence opérationnelle en pratique,ESSEC Business School,246,4.68
+Introduction to Cloud Computing,IBM,225,4.91
+Sample-based Learning Methods,Alberta Machine Intelligence Institute,443,4.48
+Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,4189,4.73
+Introduction to Blockchain Technologies,INSEAD,906,4.71
+Introduction to Environmental Law and Policy,The University of North Carolina at Chapel Hill,1473,4.86
+"Cameras, Exposure, and Photography",Michigan State University,3065,4.74
+Democracia y decisiones públicas. Introducción al análisis de políticas públicas,Universitat Autònoma de Barcelona,1254,4.86
+Dentistry 101,University of Michigan,96,4.84
+"Python Functions, Files, and Dictionaries",University of Michigan,1595,4.81
+Anticorrupción: Introducción a conceptos y perspectiva práctica,Universidad Nacional Autónoma de México,1095,4.88
+Positive Psychology: Applications and Interventions,University of Pennsylvania,1098,4.86
+Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,321,4.32
+Personal & Family Financial Planning,University of Florida,1080,4.58
+A Law Student's Toolkit,Yale University,783,4.7
+Introducción a Data Science: Programación Estadística con R,Universidad Nacional Autónoma de México,6273,4.72
+"Cybersecurity Roles, Processes & Operating System Security",IBM,976,4.51
+Computational Neuroscience,University of Washington,490,4.6
+Smart Cities – Management of Smart Urban Infrastructures,École Polytechnique Fédérale de Lausanne,660,4.63
+Getting Started with Go,"University of California, Irvine",902,4.4
+Introduction to Economic Theories,Erasmus University Rotterdam,122,4.15
+The Power of Microeconomics: Economic Principles in the Real World,"University of California, Irvine",732,4.66
+Introduction to Personal Branding,University of Virginia,5152,4.49
+Love as a Force for Social Justice,Stanford University,151,4.58
+Mathematical Thinking in Computer Science,University of California San Diego,1047,4.27
+Introduction to Genetics and Evolution,Duke University,723,4.83
+Основы программирования на Python,National Research University Higher School of Economics,1344,4.19
+Improving Communication Skills,University of Pennsylvania,1032,4.69
+"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,368,3.4
+Python Programming: A Concise Introduction,Wesleyan University,3003,4.62
+"The Modern World, Part Two: Global History since 1910",University of Virginia,770,4.88
+Understanding Plants - Part I: What a Plant Knows,Tel Aviv University,933,4.81
+Excel Fundamentals for Data Analysis,Macquarie University,291,4.59
+Finanzas personales,Universidad Nacional Autónoma de México,6366,4.81
+English Composition I,Duke University,489,4.53
+Career 911: Your Future Job in Medicine and Healthcare,Northwestern University,33,4.27
+Introduction to Self-Driving Cars,University of Toronto,928,4.66
+Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,324,4.84
+Blockchain Basics,University at Buffalo,3333,4.5
+Foundations of Business Strategy,University of Virginia,1336,4.82
+Introdução à Ciência da Computação com Python Parte 1,Universidade de São Paulo,3249,4.84
+Stochastic processes,National Research University Higher School of Economics,245,4.2
+Foundations for Big Data Analysis with SQL,Cloudera,453,4.81
+"Innovation Through Design: Think, Make, Break, Repeat",The University of Sydney,237,4.71
+Perfect Tenses and Modals,"University of California, Irvine",2070,4.81
+Getting Started with Azure,LearnQuest,137,4.18
+Moralities of Everyday Life,Yale University,1416,4.82
+Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,1007,4.9
+Understanding child development: from synapse to society,Utrecht University,132,4.64
+Introduction to G Suite,Google Cloud,945,4.63
+Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),University of California San Diego,8202,4.93
+Building Batch Data Pipelines on GCP,Google Cloud,375,4.36
+Financial Planning for Young Adults,University of Illinois at Urbana-Champaign,180,4.33
+Quantitative Methods,University of Amsterdam,1657,4.75
+"Introduction to Self-Determination Theory: An approach to motivation, development and wellness",University of Rochester,196,4.91
+The Technology of Music Production,Berklee College of Music,619,4.9
+Code Yourself! An Introduction to Programming,The University of Edinburgh,1706,4.81
+Success,University of Pennsylvania,678,4.93
+Chemicals and Health,Johns Hopkins University,542,4.86
+Improving your statistical inferences,Eindhoven University of Technology,579,4.89
+Fundamentals of Finance,University of Pennsylvania,27,3.89
+How Google does Machine Learning,Google Cloud,2841,4.48
+Object-Oriented Design,University of Alberta,818,4.58
+Introduction to Intellectual Property,University of Pennsylvania,221,4.83
+Cost and Economics in Pricing Strategy,BCG,284,4.82
+Write A Feature Length Screenplay For Film Or Television,Michigan State University,90,4.67
+Marketing Gerencial,Universidad de Chile,1801,4.72
+Corporate Finance Essentials,IESE Business School,1689,4.87
+Information Security: Context and Introduction,"Royal Holloway, University of London",1008,4.67
+"Anatomy of the Chest, Abdomen, and Pelvis",Yale University,588,4.78
+Introduction to CSS3,University of Michigan,4521,4.81
+Applied Data Science Capstone,IBM,1665,4.53
+Introduction aux Droits de l’Homme,University of Geneva,1078,4.89
+"Programming Languages, Part A",University of Washington,1099,4.94
+Big History: Connecting Knowledge,Macquarie University,1094,4.8
+Leadership in 21st Century Organizations,Copenhagen Business School,700,4.77
+Software Processes and Agile Practices,University of Alberta,1915,4.69
+DevOps Culture and Mindset,"University of California, Davis",182,4.82
+Introduction to Statistics & Data Analysis in Public Health,Imperial College London,471,4.68
+Discrete Optimization,The University of Melbourne,360,4.83
+Основы разработки на C++: белый пояс,Moscow Institute of Physics and Technology,996,4.76
+COVID-19 Contact Tracing For Nursing Professionals,University of Houston,11,3.91
+High Stakes Leadership: Leading in Times of Crisis,University of Michigan,81,4.78
+Essential Epidemiologic Tools for Public Health Practice,Johns Hopkins University,1314,4.69
+Epigenetic Control of Gene Expression,The University of Melbourne,6,1.0
+"Recruiting, Hiring, and Onboarding Employees",University of Minnesota,576,3.84
+AWS Fundamentals: Addressing Security Risk,Amazon Web Services,756,4.16
+Ancient Philosophy: Plato & His Predecessors,University of Pennsylvania,222,4.14
+Becoming a changemaker: Introduction to Social Innovation,University of Cape Town,166,4.3
+Spanish for Successful Communication in Healthcare Settings,Rice University,8,4.0
+Leading transformations: Manage change,Macquarie University,165,4.31
+Introduction to Systems Engineering,UNSW Sydney (The University of New South Wales),240,4.78
+Bayesian Statistics: Techniques and Models,"University of California, Santa Cruz",317,4.8
+Human Rights for Open Societies,Utrecht University,207,4.81
+Introduction to Computers and Office Productivity Software,The Hong Kong University of Science and Technology,105,4.6
+The Introduction to Quantum Computing,Saint Petersburg State University,126,3.31
+Intercultural Management,ESCP Business School,153,4.31
+Get Interactive: Practical Teaching with Technology,University of London,494,4.76
+Global Financial Markets and Instruments,Rice University,753,4.28
+Write Your First Novel,Michigan State University,52,3.94
+Développement psychologique de l'enfant,University of Geneva,255,4.96
+Songwriting: Writing the Lyrics,Berklee College of Music,480,4.72
+"Applied Plotting, Charting & Data Representation in Python",University of Michigan,2514,4.36
+Systems Thinking In Public Health,Johns Hopkins University,318,4.4
+Excel Skills for Business: Advanced,Macquarie University,2394,4.68
+Introduction to Neuroeconomics: How the Brain Makes Decisions,National Research University Higher School of Economics,827,4.63
+Community Organizing for Social Justice,University of Michigan,54,4.17
+Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course),Hebrew University of Jerusalem,279,4.96
+The Global Financial Crisis,Yale University,1035,4.83
+Agile и Scrum в работе над проектами и продуктами,E-Learning Development Fund,132,4.73
+Renewable Energy and Green Building Entrepreneurship,Duke University,1021,4.75
+The Cycle: Management of Successful Arts and Cultural Organizations,"University of Maryland, College Park",324,4.86
+Privacy Law and Data Protection,University of Pennsylvania,172,4.84
+Building Modern Python Applications on AWS,Amazon Web Services,3,5.0
+Digital Business Models,Lund University,313,4.59
+"Everyday Excel, Part 2",University of Colorado Boulder,120,4.95
+Reliable Google Cloud Infrastructure: Design and Process,Google Cloud,1597,4.7
+Introduction to Computer Programming,University of London,414,3.92
+"Big Data Essentials: HDFS, MapReduce and Spark RDD",Yandex,290,3.42
+Dermatology: Trip to skin,Novosibirsk State University ,195,4.03
+Sustainable Tourism – promoting environmental public health,University of Copenhagen,696,4.58
+Population Health During A Pandemic: Contact Tracing and Beyond,University of Houston,354,4.8
+Social Impact Strategy: Tools for Entrepreneurs and Innovators,University of Pennsylvania,582,4.85
+C for Everyone: Programming Fundamentals,"University of California, Santa Cruz",2280,4.57
+Introduction to Structured Query Language (SQL),University of Michigan,2117,4.77
+Social and Economic Networks:  Models and Analysis,Stanford University,6,1.0
+The Truth About Cats and Dogs,The University of Edinburgh,1182,4.75
+Sports and Society,Duke University,564,4.86
+Fundamentals of Scalable Data Science,IBM,951,4.01
+Effective Compliance Programs,University of Pennsylvania,159,4.91
+Transformation of the Global Food System,University of Copenhagen,213,4.83
+Web Application Technologies and Django,University of Michigan,344,4.79
+Curanderismo: Traditional Healing Using Plants,University of New Mexico,6,1.0
+Applied Machine Learning in Python,University of Michigan,3297,4.51
+Troubleshooting and Debugging Techniques,Google,475,4.34
+Introduction to C# Programming and Unity,University of Colorado System,1167,4.67
+"Corrección, estilo y  variaciones de la lengua española",Universitat Autònoma de Barcelona,1104,4.74
+Les Fondamentaux de la Négociation,ESSEC Business School,219,4.86
+The Science of Success: What Researchers Know that You Should Know,University of Michigan,1377,4.85
+Finance for Non-Financial Managers,Emory University,207,4.13
+Getting Started With Music Theory,Michigan State University,388,4.12
+The Horse Course: Introduction to Basic Care and Management,University of Florida,774,4.96
+Verb Tenses and Passives,"University of California, Irvine",984,4.73
+Gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,1765,4.78
+Introduction to Big Data,University of California San Diego,5868,4.59
+Rédaction de contrats,University of Geneva,423,4.84
+Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences,The University of Edinburgh,585,4.68
+Schizophrenia,Wesleyan University,563,4.68
+Ecology: Ecosystem Dynamics and Conservation,Howard Hughes Medical Institute ,1338,4.83
+Introduction to Game Development,Michigan State University,3704,4.76
+Practical Time Series Analysis,The State University of New York,772,4.49
+VLSI CAD Part I: Logic,University of Illinois at Urbana-Champaign,118,4.72
+Getting Started with Google Kubernetes Engine,Google Cloud,1917,4.25
+Exploring ​and ​Preparing ​your ​Data with BigQuery,Google Cloud,984,4.46
+Six Sigma and the Organization (Advanced),University System of Georgia,1170,4.7
+Social Work Practice: Advocating Social Justice and Change,University of Michigan,15,4.8
+Introduction to Machine Learning,Duke University,635,4.68
+Entrepreneurship 2: Launching your Start-Up,University of Pennsylvania,606,4.75
+Nanotechnology: A Maker’s Course,Duke University,1302,4.83
+Creative Problem Solving,University of Minnesota,1489,4.53
+"Sleep: Neurobiology, Medicine, and Society",University of Michigan,200,4.77
+COVID-19: What You Need to Know (CME Eligible),Osmosis,3683,4.85
+Classical Sociological Theory,University of Amsterdam,1395,4.87
+Electric Industry Operations and Markets,Duke University,444,4.78
+Preparing for the Google Cloud Professional Cloud Architect Exam,Google Cloud,410,4.47
+Effective Business Presentations with Powerpoint,PwC,456,4.64
+More Introduction to Financial Accounting,University of Pennsylvania,267,4.93
+Cryptocurrency and Blockchain: An Introduction to Digital Currencies,University of Pennsylvania,354,4.5
+Think Again I: How to Understand Arguments,Duke University,1383,4.58
+Developing Your Musicianship,Berklee College of Music,915,4.88
+Introduction to Operations Management,University of Pennsylvania,1296,4.28
+The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,204,4.9
+Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,715,4.64
+Fundamental Neuroscience for Neuroimaging,Johns Hopkins University,825,4.61
+European Business Law: Understanding the Fundamentals,Lund University,417,4.75
+Teach English Now! Teaching Language Online,Arizona State University,205,4.61
+Front-End Web Development with React,The Hong Kong University of Science and Technology,1642,4.62
+Music Business Foundations,Berklee College of Music,1305,4.87
+Introduction to Business Analytics: Communicating with Data,University of Illinois at Urbana-Champaign,297,4.65
+Machine Learning Foundations: A Case Study Approach,University of Washington,7974,4.5
+Accounting Analytics,University of Pennsylvania,1356,4.43
+Strategic Business Management - Microeconomics,"University of California, Irvine",80,4.79
+"Epidemics, Pandemics and Outbreaks",University of Pittsburgh,1242,4.74
+Roman Architecture,Yale University,351,4.84
+Research Data Management and Sharing,The University of Edinburgh,372,4.73
+Introduction to Genomic Technologies,Johns Hopkins University,1377,4.46
+Strategic Management,Copenhagen Business School,2202,4.78
+Cybersecurity Compliance Framework & System Administration,IBM,482,4.49
+Legal Tech & Startups,IE Business School,82,4.01
+Introduction to Chemistry:  Reactions and Ratios,Duke University,414,4.83
+The Science of Stem Cells,American Museum of Natural History,870,4.74
+The Business of Product Management I,Advancing Women in Product,9,4.33
+Positive Psychology: Resilience Skills,University of Pennsylvania,1455,4.91
+AI for Medical Prognosis,DeepLearning.AI,219,4.7
+Antibiotic Stewardship,Stanford University,107,4.2
+UX / UI: Fundamentos para o design de interface,Universidade de São Paulo,378,4.34
+EMT Foundations,University of Colorado System,294,4.85
+Industrial IoT on Google Cloud Platform,Google Cloud,1647,4.54
+"Penetration Testing, Incident Response and Forensics",IBM,245,4.49
+Database Management Essentials,University of Colorado System,1558,4.49
+Advertising and Society,Duke University,447,4.81
+Everyday Chinese Medicine,The Chinese University of Hong Kong,464,4.7
+Fundamentals of Machine Learning for Healthcare,Stanford University,18,4.83
+New Approaches to Countering Terror: Countering Violent Extremism,"University of Maryland, College Park",75,4.84
+Magic in the Middle Ages,Universitat de Barcelona,1027,4.56
+Challenging Forensic Science: How Science Should Speak to Court,University of Lausanne,141,4.79
+Exploring Renewable Energy Schemes,University of Pennsylvania,180,4.78
+Paleontology: Theropod Dinosaurs and the Origin of Birds,University of Alberta,876,4.9
+Corporate Strategy,UCL School of Management,348,4.95
+Getting Started with Essay Writing,"University of California, Irvine",1934,4.72
+Actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,519,4.87
+Mastering Final Cut Pro,LearnQuest,109,4.5
+Removing Barriers to Change,University of Pennsylvania,24,5.0
+Tricky American English Pronunciation,"University of California, Irvine",1674,4.72
+Managing an Agile Team,University of Virginia,568,4.7
+International Law in Action: A Guide to the International Courts and Tribunals in The Hague,Universiteit Leiden,531,4.75
+"Competencias Laborales: Perfiles, Evaluación y Capacitación.",Universidad de Chile,207,4.52
+Getting started with TensorFlow 2,Imperial College London,143,4.94
+Geopolitics of Europe,Sciences Po,235,3.84
+Osteoarchaeology: The Truth in Our Bones,Universiteit Leiden,328,4.71
+Mathematics for Machine Learning: PCA,Imperial College London,1462,3.49
+Object Oriented Programming in Java,University of California San Diego,3504,4.7
+Embedded Software and Hardware Architecture,University of Colorado Boulder,145,4.31
+Memoir and Personal Essay: Managing Your Relationship with the Reader,Wesleyan University,132,4.39
+Математика и Python для анализа данных,Moscow Institute of Physics and Technology,2488,4.64
+Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,1497,4.91
+Hypothesis-Driven Development,University of Virginia,302,4.58
+Accounting Data Analytics with Python,University of Illinois at Urbana-Champaign,24,3.5
+Introduction to Molecular Spectroscopy,University of Manchester   ,1076,4.65
+Managing as a Coach,"University of California, Davis",816,4.78
