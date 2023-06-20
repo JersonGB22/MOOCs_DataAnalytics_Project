@@ -5,8 +5,8 @@
 # <h1 align="center">**`MOOCs`**</h1>
 
 <p align="center">
-  <img src="Datasets/ImagenesReadme/mooc1.jpg" height="250" width="auto" style="max-width: 50%;" />
-  <img src="Datasets/ImagenesReadme/mooc2.jpg" height="250" width="auto" style="max-width: 50%;" />
+  <img src="Datasets/ImagenesReadme/mooc1.jpg" height="200" width="auto" style="max-width: 50%;" />
+  <img src="Datasets/ImagenesReadme/mooc2.jpg" height="200" width="auto" style="max-width: 50%;" />
 </p>
 <center>
 
@@ -26,8 +26,8 @@ Además, se requiere la creación de un Word Cloud que muestre las palabras clav
 
 # **Análisis Exploratorio de los Datos (EDA)**
 <p>
-  <img src="Datasets/title_coursera_wordcloud.png" height="400" width="auto"/>
-  <img src="Datasets/ImagenesReadme/eda1.png" height="400" width="auto"/>
+  <img src="Datasets/title_coursera_wordcloud.png" height="310" width="auto"/>
+  <img src="Datasets/ImagenesReadme/eda1.png" height="310" width="auto"/>
 </p>
 
 **Consigna:**
@@ -44,10 +44,10 @@ El EDA consistió en análisis univariados, incluyendo la visualización de las 
 
 # **Realización del Dashboard**
 <p>
-  <img src="Datasets/ImagenesReadme/informe1.png" height="280" width="auto"/>
-  <img src="Datasets/ImagenesReadme/informe2.png" height="280" width="auto"/>
-  <img src="Datasets/ImagenesReadme/informe3.png" height="280" width="auto"/>
-  <img src="Datasets/ImagenesReadme/informe4.png" height="280" width="auto"/>
+  <img src="Datasets/ImagenesReadme/informe1.png" height="230" width="auto"/>
+  <img src="Datasets/ImagenesReadme/informe2.png" height="230" width="auto"/>
+  <img src="Datasets/ImagenesReadme/informe3.png" height="230" width="auto"/>
+  <img src="Datasets/ImagenesReadme/informe4.png" height="230" width="auto"/>
 </p>
 
 **Consigna:**
