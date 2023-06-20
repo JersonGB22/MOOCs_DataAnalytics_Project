@@ -26,8 +26,8 @@ Además, se requiere la creación de un Word Cloud que muestre las palabras clav
 
 # **Análisis Exploratorio de los Datos (EDA)**
 <p>
-  <img src="Datasets/title_coursera_wordcloud.png" height="310" width="auto"/>
-  <img src="Datasets/ImagenesReadme/eda1.png" height="310" width="auto"/>
+  <img src="Datasets/title_coursera_wordcloud.png" height="350" width="auto"/>
+  <img src="Datasets/ImagenesReadme/eda1.png" height="350" width="auto"/>
 </p>
 
 **Consigna:**
