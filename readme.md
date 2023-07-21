@@ -44,10 +44,7 @@ El EDA consistió en análisis univariados, incluyendo la visualización de las 
 
 # **Realización del Dashboard**
 <p>
-  <img src="Datasets/ImagenesReadme/informe1.png" height="230" width="auto"/>
-  <img src="Datasets/ImagenesReadme/informe2.png" height="230" width="auto"/>
-  <img src="Datasets/ImagenesReadme/informe3.png" height="230" width="auto"/>
-  <img src="Datasets/ImagenesReadme/informe4.png" height="230" width="auto"/>
+  <img src="Datasets/ImagenesReadme/informe1.png" height="auto" width="auto"/>
 </p>
 
 **Consigna:**
@@ -56,7 +53,7 @@ Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que inclu
 
 **Resolución de la consigna:**
 
-El Dashboard se creó utilizando Power BI, una herramienta de análisis y visualización de datos de Microsoft. Se desarrollaron Medidas, Columnas y Tablas específicas para cada KPI, en función de su complejidad. Para cada KPI se generó un informe completo que presenta los gráficos más relevantes, variables destacadas, tarjetas informativas, seguimiento de la evolución del KPI y monitoreo de su cumplimiento. Además, se aprovechó la funcionalidad de los gráficos de Zebra BI y scripts de Python para mejorar la presentación de los informes. El archivo que contiene el Dashboard y su resolución se encuentra denominado como ``Dashboard.pbix``.
+El Dashboard se creó utilizando Power BI, una herramienta de análisis y visualización de datos de Microsoft. Se desarrollaron Medidas, Columnas y Tablas específicas para cada KPI, en función de su complejidad. Para cada KPI se generó un informe completo que presenta los gráficos más relevantes, variables destacadas, tarjetas informativas, seguimiento de la evolución del KPI y monitoreo de su cumplimiento. Además, se aprovechó la funcionalidad de los gráficos de Zebra BI y scripts de Python para mejorar la presentación de los informes. El archivo que contiene el Dashboard y su resolución se encuentra denominado como ``Dashboard.pbix``. Por último, como un plus, el Dashboard se publicó en la web mediante `powerbi.com`, lo que permite su acceso al público en general sin requerir contraseña o correo de Microsoft.
 
 ``OBSERVACIÓN:`` Si experimenta dificultades al visualizar los gráficos generados con Zebra BI, puesto que algunos no son gratuitos, puede utilizar la opción de cambio a un gráfico gratuito disponible al presionar el botón ubicado en la parte derecha del gráfico denominado `change view`, o en caso contrario, pruebe la versión de prueba gratuita de Zebra BI.
 # **Planteamiento de KPIs**
@@ -87,42 +84,29 @@ Se deben sugerir 3 KPIs y mostrarse en el dashboard. Téngase presente que deben
 
 * **Funcionalidad:** Este KPI se utilizará para evaluar la satisfacción y calidad percibida por los estudiantes en relación con los cursos ofrecidos por cada institución o entidad en Coursera. Mantener un promedio de calificación por encima de 4.5 indica un nivel deseado de excelencia y satisfacción general por parte de los estudiantes.
 
-# **Tecnologías utilizadas:**
-| Technology | Documentation |
-|------------|---------------|
-| Visual Studio Code (VSC) | https://code.visualstudio.com/docs |
-| Python | https://docs.python.org/3/ |
-| Power BI | https://learn.microsoft.com/en-us/power-bi/ |
-| Zebra BI | https://help.zebrabi.com/kb/power-bi/intro-zbi-power-bi/ |
-| Git | https://git-scm.com/doc |
-| GitHub | https://docs.github.com/en |
-| Git LFS | https://git-lfs.com/ |
-| Pandas | https://pandas.pydata.org/docs/ |
-| NumPy | https://numpy.org/doc/ |
-| Matplotlib | https://matplotlib.org/stable/contents.html |
-| Seaborn | https://seaborn.pydata.org/ |
-| Stop words | https://pypi.org/project/stop-words/ |
-| Stylecloud | https://pypi.org/project/stylecloud/ |
-| Regex (expresiones regulares) | https://docs.python.org/3/library/re.html |
-| Googletrans | https://pypi.org/project/googletrans/ |
+## **Tecnologías utilizadas:**
 
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://code.visualstudio.com/docs)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://docs.python.org/3/) 
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/power-bi/) 
+[![Zebra BI](https://img.shields.io/badge/Zebra%20BI-808080?style=for-the-badge&logo=soundcharts&logoColor=white&labelColor=101010)](https://help.zebrabi.com/kb/power-bi/intro-zbi-power-bi/) 
 
-<p>
-  <img src="https://code.visualstudio.com/assets/favicon.ico" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://cloud2.co.uk/images/uploads/logos/partner_logo_zebra-bi.png" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://github.com/fluidicon.png" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://img2.helpnetsecurity.com/posts2020/git-lfs-logo.jpg" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png" height="100" width="auto" style="max-width: 50%;" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="80" width="auto" style="max-width: 50%;" />
-  <img src="https://www.freecodecamp.org/news/content/images/2023/02/regexpy.png" height="80" width="auto" style="max-width: 50%;" />
-</p>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://docs.github.com/en)
+[![Git LFS](https://img.shields.io/badge/Git%20LFS-F34F29?style=for-the-badge&logo=git-lfs&logoColor=white&labelColor=101010)](https://git-lfs.com/)
+
+#### **Librerías de Python:**
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/docs/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)](https://numpy.org/doc/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=pypi&logoColor=white&labelColor=101010)](https://matplotlib.org/stable/contents.html)
+[![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=pypi&logoColor=white&labelColor=101010)](https://seaborn.pydata.org/)
+[![Stylecloud](https://img.shields.io/badge/Stylecloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white&labelColor=101010)](https://pypi.org/project/stylecloud/)
+
+[![Stop words](https://img.shields.io/badge/Stop%20words-808080?style=for-the-badge&logo=pypi&logoColor=white&labelColor=101010)](https://pypi.org/project/stop-words/)
+[![Googletrans](https://img.shields.io/badge/Googletrans-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=101010)](https://pypi.org/project/googletrans/)
+[![Regex](https://img.shields.io/badge/Regex-8B0000?style=for-the-badge&logo=pypi&logoColor=white&labelColor=101010)](https://docs.python.org/3/library/re.html)
 
 # **Datos del Autor:**
-## ***Jerson Brayan Gimenes Beltrán***
-
+## ***Jerson Brayan Gimenes Beltrán - Data Scientist***
+### **Linkedin:** https://www.linkedin.com/in/jerson-gimenes-beltran/
 ### **Correo electrónico:** jerson.gimenesbeltran@gmail.com
