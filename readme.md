@@ -56,6 +56,9 @@ Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que inclu
 El Dashboard se creó utilizando Power BI, una herramienta de análisis y visualización de datos de Microsoft. Se desarrollaron Medidas, Columnas y Tablas específicas para cada KPI, en función de su complejidad. Para cada KPI se generó un informe completo que presenta los gráficos más relevantes, variables destacadas, tarjetas informativas, seguimiento de la evolución del KPI y monitoreo de su cumplimiento. Además, se aprovechó la funcionalidad de los gráficos de Zebra BI y scripts de Python para mejorar la presentación de los informes. El archivo que contiene el Dashboard y su resolución se encuentra denominado como ``Dashboard.pbix``. Por último, como un plus, el Dashboard se publicó en la web mediante `powerbi.com`, lo que permite su acceso al público en general sin requerir contraseña o correo de Microsoft.
 
 ``OBSERVACIÓN:`` Si experimenta dificultades al visualizar los gráficos generados con Zebra BI, puesto que algunos no son gratuitos, puede utilizar la opción de cambio a un gráfico gratuito disponible al presionar el botón ubicado en la parte derecha del gráfico denominado `change view`, o en caso contrario, pruebe la versión de prueba gratuita de Zebra BI.
+
+## [Página Web del Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmFhMjAwMTAtMzQ1Zi00MmYzLWIzYmUtYzYzNGIwZjBjOGU2IiwidCI6IjJiZTM1NDkyLWEzMmEtNDBiNS1hOWY4LWZmMjMxMTBmZDBhYyIsImMiOjR9&pageName=ReportSection)
+
 # **Planteamiento de KPIs**
 
 **Consigna:**
