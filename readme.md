@@ -44,7 +44,7 @@ El EDA consistió en análisis univariados, incluyendo la visualización de las 
 
 # **Realización del Dashboard**
 <p>
-  <img src="Datasets/ImagenesReadme/informe1.png" height="auto" width="auto"/>
+  <img src="Datasets/ImagenesReadme/Dashboard.png" height="auto" width="auto"/>
 </p>
 
 **Consigna:**
